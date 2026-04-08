@@ -4,5 +4,3 @@ __pycache__/
 *.csv
 data/
 *.csv
-*.pkl
-__pycache__/
