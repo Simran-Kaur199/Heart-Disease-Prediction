@@ -86,3 +86,5 @@ if st.button("Predict"):
     else:
         st.success(f"Low Risk of Heart Disease ({prob:.2f})")
 
+
+st.markdown("🔗 [View Code](https://github.com/Simran-Kaur199/Heart-Disease-Prediction)")
